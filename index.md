@@ -6,7 +6,6 @@
 
 [Provide ideas for app improvement]([provide-ideas-for-app-improvement.html])
 
->>>>>>> c85d5381b62a4fb595075218219719d1cea11e2c
 [Checkout](checkout.html)
 
 [id-verification](id-verification.html)
