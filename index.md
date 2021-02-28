@@ -1,10 +1,15 @@
 ## Welcome to GitHub Pages
 
 [Shop for groceries](Shop-for-groceries.html)
+
 [Provide ideas for app improvement]([provide-ideas-for-app-improvement.html])
+
 [Checkout](checkout.html)
+
 [id-verification](id-verification.html)
+
 [contact help desk](contact-help-desk.html)
+
 [create-edit-profile](create-edit-profile.html)
 
 
