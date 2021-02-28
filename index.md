@@ -1,9 +1,8 @@
 ## Welcome to GitHub Pages
 
 [Shop for groceries](Shop-for-groceries.html)
-<<<<<<< HEAD
+
 [Provide ideas for app improvement]([app-improvement.html])
-=======
 
 [Provide ideas for app improvement]([provide-ideas-for-app-improvement.html])
 
