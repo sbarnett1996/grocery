@@ -4,8 +4,6 @@
 
 [Provide ideas for app improvement]([app-improvement.html])
 
-[Provide ideas for app improvement]([provide-ideas-for-app-improvement.html])
-
 [Checkout](checkout.html)
 
 [id-verification](id-verification.html)
