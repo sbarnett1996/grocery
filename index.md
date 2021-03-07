@@ -2,8 +2,6 @@
 
 [Shop for groceries](Shop-for-groceries.html)
 
-[Provide ideas for app improvement]([app-improvement.html])
-
 [Checkout](checkout.html)
 
 [id-verification](id-verification.html)
@@ -11,6 +9,8 @@
 [contact help desk](contact-help-desk.html)
 
 [create-edit-profile](create-edit-profile.html)
+
+[Provide ideas for app improvement]([improvement.html])
 
 
 You can use the [editor on GitHub](https://github.com/sbarnett1996/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
